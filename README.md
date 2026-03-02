@@ -1,3 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kosora623&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kosora623&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosora623
+)](https://github.com/anuraghazra/github-readme-stats)
